@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://github-visitor-counter-tau.vercel.app/api?username=IbraHIM-Howaid&displayMode=topCountries&theme=github&columns=4&maxflags=20&showlabels=true&size=large)
+![](https://github-visitor-counter-tau.vercel.app/api?username=IbraHIM-Howaid&displayMode=topCountries&theme=transparent&columns=4&maxflags=20&showlabels=true&size=large&border=444D56)
 
 
 <!--
