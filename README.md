@@ -2,7 +2,7 @@
 <img width="2000" height="400" alt="banner" src="https://github.com/user-attachments/assets/5607620a-957f-484f-a0ba-4fc9905db930" />
 
 
-![pengu working](https://github.com/user-attachments/assets/d345324c-dcd6-449d-bfac-f40600a921df) ##Welcome to my profile! ![github logo](https://github.com/user-attachments/assets/99834d2e-c31f-4740-b8dc-581c9ebf0510)
+##Welcome to my profile! ![github logo](https://github.com/user-attachments/assets/99834d2e-c31f-4740-b8dc-581c9ebf0510)
 
 
 ![](https://github-visitor-counter-tau.vercel.app/api?username=IbraHIM-Howaid&displayMode=topCountries&theme=github&columns=4&maxflags=20&showlabels=true&visitortype=percentage&size=large)
