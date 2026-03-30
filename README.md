@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![](https://github-visitor-counter-tau.vercel.app/api?username=IbraHIM-Howaid&displayMode=topCountries&theme=transparent&columns=4&maxflags=20&showlabels=true&size=large&border=444D56)
-
+![](https://github-visitor-counter-tau.vercel.app/api?username=IbraHIM-Howaid&displayMode=topCountries&theme=github&columns=4&maxflags=20&showlabels=true&visitortype=percentage&size=large)
 
 <!--
 **IbraHIM-Howaid/IbraHIM-Howaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
