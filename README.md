@@ -1,5 +1,5 @@
 
-<img width="2000" height="400" alt="banner" src="https://github.com/user-attachments/assets/5607620a-957f-484f-a0ba-4fc9905db930" />
+
 
 
 ## Welcome to my profile! 
